@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "zxcwsurxx",
+            "oem": "Poco",
+            "device": "Poco F5",
+            "filename": "Celestial.zip",
+            "download": "https://",
+            "timestamp": 1737318192,
+            "md5": "",
+            "sha256": "",
+            "size": 2073667182,
+            "version": "11.1",
+            "buildtype": "Testing",
+            "forum": "",
+            "gapps": "https://nikgapps.com/crdroid-official",
+            "firmware": "https://xmfirmwareupdater.com/firmware/marble/",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/marble-builds/files/recovery/%5BREC%5D3.7.1_12-RedmiNote12Turbo%5BEdition%5D-POCOF5_v8.6_A14-marble-skkk.img/download",
+            "paypal": "https://linktr.ee/zxcwsurx",
+            "telegram": "https://t.me/NextGenRomSupport",
+            "dt": "https://github.com/crdroidandroid/android_device_xiaomi_marble",
+            "common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm8450-common",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8450"
+        }
+    ]
+}
